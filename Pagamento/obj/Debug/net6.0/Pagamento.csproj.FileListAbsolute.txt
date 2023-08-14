@@ -1,0 +1,15 @@
+C:\cursoWeb\projetos\Pagamento\Pagamento\bin\Debug\net6.0\Pagamento.exe
+C:\cursoWeb\projetos\Pagamento\Pagamento\bin\Debug\net6.0\Pagamento.deps.json
+C:\cursoWeb\projetos\Pagamento\Pagamento\bin\Debug\net6.0\Pagamento.runtimeconfig.json
+C:\cursoWeb\projetos\Pagamento\Pagamento\bin\Debug\net6.0\Pagamento.dll
+C:\cursoWeb\projetos\Pagamento\Pagamento\bin\Debug\net6.0\Pagamento.pdb
+C:\cursoWeb\projetos\Pagamento\Pagamento\obj\Debug\net6.0\Pagamento.csproj.AssemblyReference.cache
+C:\cursoWeb\projetos\Pagamento\Pagamento\obj\Debug\net6.0\Pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursoWeb\projetos\Pagamento\Pagamento\obj\Debug\net6.0\Pagamento.AssemblyInfoInputs.cache
+C:\cursoWeb\projetos\Pagamento\Pagamento\obj\Debug\net6.0\Pagamento.AssemblyInfo.cs
+C:\cursoWeb\projetos\Pagamento\Pagamento\obj\Debug\net6.0\Pagamento.csproj.CoreCompileInputs.cache
+C:\cursoWeb\projetos\Pagamento\Pagamento\obj\Debug\net6.0\Pagamento.dll
+C:\cursoWeb\projetos\Pagamento\Pagamento\obj\Debug\net6.0\refint\Pagamento.dll
+C:\cursoWeb\projetos\Pagamento\Pagamento\obj\Debug\net6.0\Pagamento.pdb
+C:\cursoWeb\projetos\Pagamento\Pagamento\obj\Debug\net6.0\Pagamento.genruntimeconfig.cache
+C:\cursoWeb\projetos\Pagamento\Pagamento\obj\Debug\net6.0\ref\Pagamento.dll
